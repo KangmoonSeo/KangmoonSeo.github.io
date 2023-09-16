@@ -1,4 +1,4 @@
-# KangmoonSeo.github.io
+# kangmoonseo-github-io
 
-- https://KangmoonSeo.github.io/web/
-    - todolist app with `Flutter`
+- https://KangmoonSeo.github.io/web/todolist/
+    - todolist app with Flutter
